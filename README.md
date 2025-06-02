@@ -14,3 +14,5 @@ What The Script Does -
 5. Uses Pandas and NumPy to compute:
    - Summary statistics (mean, median, standard deviation)
    - Top-rated and most-rated movies
+
+The ReadMe in the Module 1 folder was downloaded with the files from Kaggle
